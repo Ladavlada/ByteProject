@@ -1,8 +1,14 @@
-* {
+/* * {
 	margin: 0;
 	padding: 0;
 	font-size: 16px;
 	font-weight: normal;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,700;1,500&display=swap');
+
+.body {
+	font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -11,6 +17,7 @@
 }
 
 .header {
+	font-family: 'Open Sans', sans-serif;
 	background-color: #FF714345;
 	padding: 38px 0 48px;
 }
@@ -71,6 +78,7 @@
 }
 
 h1{
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 80px;
 	line-height: 77px;
@@ -82,6 +90,7 @@ h1{
 
 
 .about_text {
+	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 	letter-spacing: -0.625263px;
@@ -102,6 +111,7 @@ h1{
 }
 
 .footer {
+	font-family: 'Open Sans', sans-serif;
 	background-color: #FF714345;
 	padding: 38px 0 48px;
 }
@@ -116,7 +126,12 @@ h1{
 	margin-bottom: 85px;
 }
 
+.subscription_man {
+	width: 
+}
+
 .subscription_title {
+	font-family: 'Open Sans', sans-serif;
 	font-style: normal;
 	font-weight: 700;
 	font-size: 50px;
@@ -127,6 +142,7 @@ h1{
 }
 
 .input {
+	font-family: 'Open Sans', sans-serif;
 	width: 302px;
 	height: 60px;
 	border-radius: 10px;
@@ -153,6 +169,7 @@ h1{
 }
 
 .plan_title {
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 700;
 	font-size: 60px;
 	line-height: 70px;
@@ -163,6 +180,7 @@ h1{
 }
 
 .item {
+	font-family: 'Open Sans', sans-serif;
 	width: 330px;
 	background-color:  #F8F8F8;
 	border-radius: 10px;
